@@ -1,6 +1,9 @@
 # CentipedePlusPlus
 This repository contains the code used to implement a version of the classic Centipede Game in C++.
 
+<img width="959" alt="image" src="https://user-images.githubusercontent.com/87419112/203600599-3abb47b9-bdda-4a90-976d-140d013bc8fd.png">
+
+
 To Play the Game, run the CentipedePlusPlus file under executeables.
 
 The game is implemented with an underwater theme with several major features:
